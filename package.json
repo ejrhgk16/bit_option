@@ -1,0 +1,12 @@
+{
+  "name": "bit-option-cli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
